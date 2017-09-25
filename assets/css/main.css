@@ -181,13 +181,21 @@
 	}
 
 	.descripiton {
-		font-size: 1em;
+		font-size: 1.2em;
 		position: relative;
 		line-height: 1.5;
 	}
 
 	.feature{
 		font-weight: bolder;
+	}
+
+	.title{
+		font-size: 2.5em;
+	}
+
+	.emailUs{
+		margin: 0 0 .7em 0;
 	}
 
 	p {
@@ -646,8 +654,8 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: #ff7496;
-			color: #ff7496 !important;
+			border-color: #925fab;
+			color: #925fab !important;
 		}
 
 		input[type="submit"].icon,
@@ -707,6 +715,18 @@
 			pointer-events: none;
 			opacity: 0.5;
 		}
+
+
+		input[type="submit"].register,
+		input[type="reset"].register,
+		input[type="button"].register,
+		button.register,
+		.button.register {
+			font-size: 1.7em;
+			border-color: #b5df11;
+			background-color: #e6f9e3;
+		}
+
 
 /* Main */
 
