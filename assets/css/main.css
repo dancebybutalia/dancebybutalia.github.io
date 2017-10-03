@@ -722,10 +722,21 @@
 		input[type="button"].register,
 		button.register,
 		.button.register {
+			font-size: 1.2em;
+			border-color: #52bcdf;
+			background-color: #ceeaf4;
+		}
+
+		input[type="submit"].registerTrial,
+		input[type="reset"].registerTrial,
+		input[type="button"].registerTrial,
+		button.registerTrial,
+		.button.registerTrial {
 			font-size: 1.7em;
 			border-color: #b5df11;
 			background-color: #e6f9e3;
 		}
+		
 
 
 /* Main */
