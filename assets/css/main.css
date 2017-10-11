@@ -620,6 +620,18 @@
 			margin-left: 1.5em;
 		}
 
+	.clear{
+		clear: both;
+	}
+
+	.text-bhangra{
+		color: #3399FF;
+	}
+
+	.text-bollywood{
+		color: #53b600;
+	}
+
 /* Button */
 
 	input[type="submit"],
