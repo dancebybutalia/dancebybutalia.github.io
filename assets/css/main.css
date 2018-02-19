@@ -749,11 +749,11 @@
 			background-color: #e6f9e3;
 		}
 
-		input[type="submit"].registerTrial2,
-		input[type="reset"].registerTrial2,
-		input[type="button"].registerTrial2,
-		button.registerTrial2,
-		.button.registerTrial2 {
+		input[type="submit"].registerTrialB,
+		input[type="reset"].registerTrialB,
+		input[type="button"].registerTrialB,
+		button.registerTrialB,
+		.button.registerTrialB {
 			font-size: 1em;
 			border-color: #b5df11;
 		}
